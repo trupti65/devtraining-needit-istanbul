@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="login" max_length="40" name="x_58872_needit_test" type="collection">
+        <element label="LoginId" max_length="40" name="loginid" type="integer"/>
+        <element label="password" max_length="40" name="password" type="string"/>
+    </element>
+</database>
